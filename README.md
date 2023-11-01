@@ -1,4 +1,4 @@
-Working on this project
+Only Skills and contact section is remaining
 
 # Getting Started with Create React App
 
