@@ -1,0 +1,41 @@
+.about{
+    padding-bottom: 40px;
+}
+
+.about-top{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.image{
+    height: 400px;
+}
+
+.about-info{
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.about-info span{
+    font-size: 32px;
+    color: blue;
+}
+
+@media only screen and (max-width: 720px){
+    .about-top{
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .image{
+        height: 290px;
+    }
+    .about-info{
+        font-size: 20px;
+    }
+    .about-info span{
+        font-size: 26px;
+    } 
+}
+
