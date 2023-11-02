@@ -10,8 +10,8 @@ const Mobile = ({isOpen, setIsOpen}) => {
 
         <div className="mobile-options">
             <div className="mobile-option">
-                <a href="#home">
-                <i className="fi fi-rr-home option-icon"></i> Home
+                <a href="#about">
+                <i className="fi fi-rs-info option-icon"></i> About
                 </a>
             </div>
             <div className="mobile-option">

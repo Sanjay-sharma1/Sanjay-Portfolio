@@ -16,7 +16,7 @@ export const SocialData=[
     },
     {
         platform:"LinkedIn",
-        link:"www.linkedin.com/in/sanjaysharma6189",
+        link:"https://www.linkedin.com/",
         icon:require('../../image/icons/linkedin.png'),
     },
     {
