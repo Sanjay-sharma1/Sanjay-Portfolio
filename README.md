@@ -1,5 +1,3 @@
-Only Skills and contact section is remaining
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
